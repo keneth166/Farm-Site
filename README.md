@@ -1,2 +1,2 @@
 # Farm-Site
-This is a site showin detailsg farm
+This is a site showing farm details
